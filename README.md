@@ -1,2 +1,2 @@
 # red-team-tools
-Python red teaming tools.
+Python and Go red teaming tools.
